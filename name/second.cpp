@@ -1,0 +1,1 @@
+cout<"kush"> <<endl
